@@ -1,0 +1,10 @@
+{
+  "symbols": ["SPY", "QQQ", "NVDA"],
+  "refresh_ms": 2000,
+  "default_mode": "1",
+  "red_up": false,
+  "alpha": 0.86,
+  "candle_width": 5,
+  "opend_host": "127.0.0.1",
+  "opend_port": 11111
+}

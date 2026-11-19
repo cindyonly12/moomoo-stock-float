@@ -1,0 +1,4 @@
+# 实时行情（可选；不装则自动使用 Yahoo 1 分钟数据，无夜盘）
+moomoo-api>=10.0
+# 可选：解决部分 Python 安装缺少 SSL 根证书的问题
+certifi

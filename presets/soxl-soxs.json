@@ -1,0 +1,9 @@
+{
+  "name": "SOXL / SOXS 半导体多空 3 倍 ETF",
+  "symbols": ["SOXL", "SOXS"],
+  "refresh_ms": 2000,
+  "default_mode": "1",
+  "red_up": false,
+  "alpha": 0.86,
+  "candle_width": 5
+}
